@@ -201,7 +201,7 @@ import {
     {
       name: "Amazon Clone",
       description:
-        "Web application that enables users for Oline Shopping .User can SignIn/SignOutbuy , Track there Orders ,male Payment for product from this Amazing fully working website .",
+        "Web application that enables users for Online Shopping .User can SignIn/SignOutbuy , Track there Orders ,make Payment for product from this Amazing fully working website .",
       tags: [
         {
           name: "react",
@@ -228,7 +228,7 @@ import {
     {
       name: "Google Clone",
       description:
-        "A Google Clone With Search Functionality that allows users to Search and give Search Results.",
+        "A Google Clone With Search Functionality that allows users to Search and give Search Results.So, click it to search something ,and share your expirence.",
       tags: [
         {
           name: "React",
